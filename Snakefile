@@ -14,14 +14,13 @@ module_config = {
 			"dmc_utils.lua"
 		],
 		"requires": [
+			"dmc-corona-boot",
 			"DMC-Lua-Library"
 		]
 	},
 	"tests": {
-		"files": [
-		],
-		"requires": [
-		]
+		"files": [],
+		"requires": []
 	}
 }
 
